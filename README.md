@@ -22,3 +22,4 @@ Primeira vez que a gente usou o code pen = https://codepen.io/Jo-o-Miguel-JM/pen
 
 Lista de Frutas = https://codepen.io/Jo-o-Miguel-JM/pen/JjQMvPB
 
+Atividade dos 3 Arrays = https://codepen.io/Jo-o-Miguel-JM/pen/XWLZvPq
