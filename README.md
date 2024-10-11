@@ -7,12 +7,22 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 String (Representação de texto)
+
+Variáveis ( Existem três palavras-chave diferentes usadas para declarar uma variável em JavaScript. São eles: var , let , e const.) 
+
 Number (Validação de número)
-Boolean (Verdadeiro ou Falso)
+
+Boolean (Verdadeiro ou Falso, var x = new Boolean(false);
+if (x) {
+  // esse código é executado) 
+
 If Else (Condição)
-Switch Case
-Função
-Array
+
+Switch Case (especificar código diferente para ser executado em várias condições)
+
+Função  (é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor.)
+
+Array (é um conjunto de valores ordenados que você o referencia com um nome e um índice. Existem varios métodos como join,shift,indexOf )
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
