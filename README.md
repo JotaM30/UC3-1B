@@ -6,6 +6,8 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
+#### Javascript é uma linguagem de programação que possibilita a criação de páginas na web
+
 String (Representação de texto)
 
 Variáveis ( Existem três palavras-chave diferentes usadas para declarar uma variável em JavaScript. São eles: var , let , e const.) 
